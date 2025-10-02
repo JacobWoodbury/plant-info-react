@@ -4,7 +4,7 @@ export default function Row(){
     return(
         <>
             <Card></Card>
-            <div id = "card-spacer"></div>
+
             <Card2></Card2>
         
         </>
