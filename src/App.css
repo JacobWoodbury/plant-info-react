@@ -4,9 +4,15 @@
   padding: 2rem;
   text-align: center;
 }
+
 #space{
-  border-bottom: 2px solid rebeccapurple;
+  border: 2px solid rebeccapurple;
 }
+
+table, tr, td {
+  border: 1px solid white;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
