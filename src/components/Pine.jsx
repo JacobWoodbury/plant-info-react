@@ -1,8 +1,10 @@
+import pine from '../images/pine-tree.jpg'
+
 export default function Card(){
     return ( 
         <>
             <h2 id = "name">Pine Tree</h2>
-            <img src = "../images/pine-tree.jpg"></img>
+            <img src = {pine} alt = "Picture of a pine tree"></img>
             <table>
                 <tbody>
                     <tr>

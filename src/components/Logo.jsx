@@ -1,7 +1,9 @@
+import logo from '../images/tree-logo.jpg'
+
 export default function Logo() {
     return (
         <>
-            <img src = "../images/tree-logo.jpg"></img>
+            <img src = {logo} alt = "Tree Logo" />
         </>
     )
 }
