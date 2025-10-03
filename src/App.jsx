@@ -3,12 +3,14 @@ import Footer from './components/Footer'
 import Pine from './components/Pine'
 import Redwood from './components/Redwood'
 import Spacer from './components/Spacer'
+import Logo from './components/Logo'
 import './App.css'
 
 function App() {
 
   return (
     <>
+      <Logo />
       <Header/>
       <Spacer/>
       <Pine />
@@ -16,6 +18,7 @@ function App() {
       <Redwood />
       <Spacer/>
       <Footer/>
+      <Logo />
     </>
   )
 }

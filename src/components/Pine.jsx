@@ -2,6 +2,7 @@ export default function Card(){
     return ( 
         <>
             <h2 id = "name">Pine Tree</h2>
+            <img src = "../images/pine-tree.jpg"></img>
             <table>
                 <tbody>
                     <tr>
@@ -26,11 +27,11 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td>Videos on Pine Trees</td>
+                        <td>Videos on Pine Trees:</td>
                         <td>
                             <ul>
                                 <li><a href = "https://www.youtube.com/watch?v=QvIVOxMBNB4" target = "_blank">Pine Tree Facts</a></li>
-                                <li><a href = "https://www.youtube.com/watch?v=7y4K2yMuOdQ" target = "_blank"></a>Pine Tree Identification</li>
+                                <li><a href = "https://www.youtube.com/watch?v=7y4K2yMuOdQ" target = "_blank">Pine Tree Identification</a></li>
                             </ul>
                         </td>
                     </tr>

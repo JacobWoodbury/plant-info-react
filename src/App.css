@@ -2,11 +2,11 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
 }
 
 #space{
   border: 2px solid rebeccapurple;
+  padding: 5px;
 }
 
 table {
@@ -17,6 +17,11 @@ table {
 tr, td {
   border: 1px solid white;
   padding: 8px;
+}
+
+img {
+  width: 150px;
+  border-radius: 40%;
 }
 
 .logo {
