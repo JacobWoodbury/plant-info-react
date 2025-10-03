@@ -4,6 +4,10 @@
   padding: 2rem;
 }
 
+.nav {
+  float: left;
+}
+
 h1, h2 {
   text-align: center;
 }
