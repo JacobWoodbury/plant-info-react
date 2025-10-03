@@ -16,6 +16,7 @@ h1, h2 {
 }
 
 table {
+  width: 90%;
   display: flex;
   justify-content: center;
   margin-bottom: 15px;
