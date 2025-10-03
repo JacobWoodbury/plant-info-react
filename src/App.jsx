@@ -16,7 +16,7 @@ function App() {
     <>
       <Logo />
       <Header/>
-      <Nav />
+    <Nav />
       <Spacer/>
       <Pine />
       <Spacer/>

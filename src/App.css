@@ -6,6 +6,9 @@
 
 .nav {
   float: left;
+  position: sticky;
+  top: 0;
+  border: 2px white solid;
 }
 
 h1, h2 {

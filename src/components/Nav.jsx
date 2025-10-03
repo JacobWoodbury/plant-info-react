@@ -6,8 +6,8 @@ function Nav(){
                 <ul>
                     <li><a href = "#pineTree">Pine Tree</a></li>
                     <li><a href = "#redwoodTree">Redwood Tree</a></li>
-                    <li><a href = "#sunflower"></a>Sunflower</li>
-                    <li><a href = "#cosmosFlower"></a>Cosmos</li>
+                    <li><a href = "#sunflower">Sunflower</a></li>
+                    <li><a href = "#cosmosFlower">Cosmos</a></li>
                     <li><a href = "roseFlower">Rose</a></li>
                 </ul>
             </div>
