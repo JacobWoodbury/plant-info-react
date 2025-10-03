@@ -1,8 +1,7 @@
 import Header from './components/Header'
 import Footer from './components/Footer'
-import Card from './components/Card'
-import Card2 from './components/Card2'
-import Row from './components/Row'
+import Pine from './components/Pine'
+import Redwood from './components/Redwood'
 import Spacer from './components/Spacer'
 import './App.css'
 
@@ -12,11 +11,10 @@ function App() {
     <>
       <Header/>
       <Spacer/>
-      <Row/>
+      <Pine />
       <Spacer/>
-      <Row/>
+      <Redwood />
       <Spacer/>
-
       <Footer/>
     </>
   )

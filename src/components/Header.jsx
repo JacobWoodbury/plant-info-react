@@ -1,8 +1,8 @@
 function Header(){
     return(
         <>
-        <img src = "" alt = "tree logo"></img>
-        <h1>Welcome to the plant encyclopedia</h1>
+        <img src = "" alt = "Tree logo"></img>
+        <h1>Welcome to the Plant Encyclopedia</h1>
         </>
     )
 }

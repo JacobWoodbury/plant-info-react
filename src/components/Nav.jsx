@@ -1,4 +1,4 @@
-function Nav(cardList){
+function Nav(){
     return(
         <>
             <h3>Navigation</h3>
