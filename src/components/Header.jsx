@@ -1,7 +1,7 @@
 function Header(){
     return(
         <>
-            <h1>Welcome to the Plant Encyclopedia</h1>
+            <h1>Welcome to the Plant/Tree Encyclopedia</h1>
         </>
     )
 }
