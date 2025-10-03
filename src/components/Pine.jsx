@@ -15,7 +15,7 @@ export default function Card(){
                                 <li>Pine trees provide one of the most extensively used types of timber. Not only that, but their seeds make pesto, and pine resin is flavor for retsina wine.</li>
                                 <li>Pine trees can grow up to 10-260 feet tall, the average height being 50-150 feet tall.</li>
                                 <li>Pine trees are very long lived, as they can typically reach ages of 100-1,000 years old, and some are even older! There have been reports of 4,800-4,900 year old pine trees!</li>
-                                <li>The bark of most pines is thick and scaly, but some may also have thin and flaky bark. As for the leaves, they may have seed leaves, juvenle leaves, scale leaves, and needles!</li>
+                                <li>The bark of most pines is thick and scaly, but some may also have thin and flaky bark. As for the leaves, they may have seed leaves, juvenile leaves, scale leaves, and needles!</li>
                             </ul>
                         </td>
                     </tr>

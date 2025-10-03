@@ -8,7 +8,7 @@ function Nav(){
                     <li><a href = "#redwoodTree">Redwood Tree</a></li>
                     <li><a href = "#sunflower">Sunflower</a></li>
                     <li><a href = "#cosmosFlower">Cosmos</a></li>
-                    <li><a href = "roseFlower">Rose</a></li>
+                    <li><a href = "#roseFlower">Rose</a></li>
                 </ul>
             </div>
         </>
