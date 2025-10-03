@@ -1,6 +1,6 @@
 {
   "name": "plant-info",
-  "homepage":"https://JacobWoodbury.github.io/plant-info-react",
+  "homepage": "https://JacobWoodbury.github.io/plant-info-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
