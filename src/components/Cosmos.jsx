@@ -3,12 +3,12 @@ import cosmos from '../images/cosmos.jpg'
 export default function Card(){
     return ( 
         <>
-            <h2 id = "cosmosFlower"></h2>
+            <h2 id = "cosmosFlower">Cosmos</h2>
             <img src = {cosmos} alt = "Picture of a cosmos flower"></img>
             <table>
                 <tbody>
                     <tr>
-                        <td></td>
+                        <td>Cosmos Info:</td>
                         <td>
                             <ul>
                                 <li>Among the different species with cosmos flowers, their flower color will vary. They can be purple, pink, or white.</li>
@@ -20,7 +20,7 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>Read more about Cosmos:</td>
                         <td>
                             <ul>
                                 <li><a href="https://en.wikipedia.org/wiki/Cosmos_%28plant%29" target = "_blank">Wikipedia</a></li>
@@ -29,7 +29,7 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>Videos on Cosmos:</td>
                         <td>
                             <ul>
                                 <li><a href = "https://www.youtube.com/watch?v=P6fWUosBQpU" target = "_blank">Cosmos flower information</a></li>

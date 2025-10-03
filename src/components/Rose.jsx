@@ -3,12 +3,12 @@ import rose from '../images/rose.jpg'
 export default function Card(){
     return ( 
         <>
-            <h2 id = "roseFlower"></h2>
+            <h2 id = "roseFlower">Rose</h2>
             <img src = {rose} alt = "Picture of a rose"></img>
             <table>
                 <tbody>
                     <tr>
-                        <td></td>
+                        <td>Rose Info:</td>
                         <td>
                             <ul>
                                 <li>The flowers of the rose grow in many different colors, such as red, yellow, white or even purple.</li>
@@ -20,7 +20,7 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>Read more about Roses:</td>
                         <td>
                             <ul>
                                 <li><a href="https://simple.wikipedia.org/wiki/Rose" target = "_blank">Wikipedia</a></li>
@@ -29,7 +29,7 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>Videos on Roses:</td>
                         <td>
                             <ul>
                                 <li><a href = "https://www.youtube.com/watch?v=6uXT1QQs4UU" target = "_blank">More rose facts</a></li>

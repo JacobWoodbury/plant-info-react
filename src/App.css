@@ -4,9 +4,13 @@
   padding: 2rem;
 }
 
+h1, h2 {
+  text-align: center;
+}
+
 #space{
   border-bottom: 2px solid rebeccapurple;
-  padding: 5px;
+  margin: 5px;
 }
 
 table {
@@ -22,6 +26,7 @@ tr, td {
 img {
   width: 150px;
   border-radius: 40%;
+  margin: auto;
 }
 
 .logo {

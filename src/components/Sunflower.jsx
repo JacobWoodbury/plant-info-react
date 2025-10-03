@@ -3,12 +3,12 @@ import sunflower from '../images/sunflower.jpg'
 export default function Card(){
     return ( 
         <>
-            <h2 id = "sunflower"></h2>
+            <h2 id = "sunflower">Sunflower</h2>
             <img src = {sunflower} alt = "Picture of a sunflower"></img>
             <table>
                 <tbody>
                     <tr>
-                        <td></td>
+                        <td>Sunflower Info:</td>
                         <td>
                             <ul>
                                 <li>The common sunflower is harvested for its seeds as snacks, cooking oil, livestock food, and bird food.</li>
@@ -20,7 +20,7 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>Read more about Sunflowers:</td>
                         <td>
                             <ul>
                                 <li><a href="https://en.wikipedia.org/wiki/Common_sunflower" target = "_blank">Wikipedia</a></li>
@@ -29,7 +29,7 @@ export default function Card(){
                         </td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>Video on Sunflowers:</td>
                         <td>
                             <ul>
                                 <li><a href = "https://www.youtube.com/watch?v=gvlumx640Yg" target = "_blank">More sunflower facts</a></li>
